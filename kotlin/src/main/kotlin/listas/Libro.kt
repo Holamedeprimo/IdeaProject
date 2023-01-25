@@ -14,5 +14,6 @@ class Libro(titulo: String, autor: String, npag: Int, calificacion: Int) {
             }
         }
     var listalibros = mutableListOf<Libro>()
+    /*mismuertos*/
 
 }
