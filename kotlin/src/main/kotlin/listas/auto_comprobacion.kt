@@ -1,5 +1,5 @@
 package listas
-
+/*
 fun main(args: Array<String>) {
     val miAuto = Auto()
     miAuto.color = "Rojo"
@@ -12,3 +12,4 @@ fun main(args: Array<String>) {
     miAuto.acelerar()
     println(miAuto.marca)
 }
+ */
